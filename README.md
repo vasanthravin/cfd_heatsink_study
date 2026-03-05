@@ -70,7 +70,7 @@ The volume render at the optimal 1 m/s condition shows a sharp thermal plume ris
 
 ### Pathlines Coloured by Velocity Magnitude & Surface Temperature Contours
 
-![CFD Pathlines and Temperature Contours](Screenshot_2026-03-05_144616.png)
+![CFD Pathlines and Temperature Contours](Screenshot-2026-03-05-144616.png)
 
 The combined pathline and contour plot illustrates:
 
